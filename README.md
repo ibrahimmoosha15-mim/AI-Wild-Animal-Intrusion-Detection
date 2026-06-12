@@ -52,3 +52,19 @@ Mohamed Ibrahim Moosha M
 B.E. Electrical and Electronics Engineering
 
 University VOC College of Engineering, Thoothukudi
+## Project Images
+
+### Hardware Setup
+![Hardware Setup](Project kit.png)
+
+### Logic Flowchart
+![Flowchart](logical Flow chart.png)
+
+### AI Model Performance
+![AI Model](Results matplot.png)
+
+### YOLO Detection Result
+![Detection](Software Results.png)
+
+### Dataset Overview
+![Dataset](data sets.png)
